@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.tittle{
+    color: purple;
+}
+.Top-part{
+    display: flex;
+    
+}
+.part-1{
+    width: 50%;
+    padding: 13%;
+}
+.part-1 h1{
+    color: gray;
+    
+}
+.part-1 img{
+    width: 100%;
+}
+.btn-1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius:20px ;
+    color: white;
+    
+}
