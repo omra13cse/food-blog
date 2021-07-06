@@ -22,9 +22,21 @@ body{
 }
 .btn-1{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(purple, white);
     padding: 10px 40px;
     border-radius:20px ;
     color: white;
     
+}
+.banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    
+}
+.food-recipies{
+    text-align: center;
+    
+}
+.food-recipies h1{
+    color: gray;
 }
