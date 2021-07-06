@@ -40,3 +40,43 @@ body{
 .food-recipies h1{
     color: gray;
 }
+.Recipi-tittles{
+    margin-top: 50px;
+}
+.recipies-items{
+   width: 50%;
+   margin-left: 8%;
+   margin-right: 8%;
+   border-radius: 5%;
+   box-shadow: 10px 10px 40px gray;
+
+}
+
+.recipies-items img{
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 2%;
+    border-radius: 20%;
+}
+.recipies-items p{ 
+    color: gray;
+}
+.container{
+    width: 50%;
+   margin-left: 8%;
+   margin-right: 8%;
+   border-radius: 5%;
+   box-shadow: 10px 10px 40px gray;
+}
+footer{
+    background-color: black;
+}
+footer h1{
+    text-align: center;
+    color: gray;
+}
+footer p{
+    color: gray;
+    text-align: center;
+    font-weight: 300;
+}
