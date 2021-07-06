@@ -61,12 +61,25 @@ body{
 .recipies-items p{ 
     color: gray;
 }
+.viewer{
+    margin-top: 50px;
+}
 .container{
-    width: 50%;
-   margin-left: 8%;
-   margin-right: 8%;
+   width: 100%;
+   margin-right: 20%;
+   padding-left: 30%;
    border-radius: 5%;
    box-shadow: 10px 10px 40px gray;
+}
+.social-media{
+    margin-right: 40px;
+
+}
+#item-1{
+    padding-left: 10px;
+}
+#item-2{
+    padding-right: 46px;
 }
 footer{
     background-color: black;
@@ -74,6 +87,7 @@ footer{
 footer h1{
     text-align: center;
     color: gray;
+    padding-top: 20px;
 }
 footer p{
     color: gray;
